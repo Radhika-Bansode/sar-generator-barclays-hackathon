@@ -1,0 +1,368 @@
+
+AML RED FLAG TYPOLOGIES AND INDICATORS
+Financial Action Task Force (FATF) & FIU-IND Guidelines
+
+═══════════════════════════════════════════════════════════════
+MONEY LAUNDERING TYPOLOGIES - INDIA CONTEXT
+═══════════════════════════════════════════════════════════════
+
+TYPOLOGY 1: STRUCTURING / SMURFING
+═══════════════════════════════════════════════════════════════
+
+Definition:
+Breaking large transactions into smaller amounts to avoid reporting 
+thresholds mandated under PMLA 2002.
+
+Indian Regulatory Threshold:
+- Cash transactions ≥ ₹10,00,000 require CTR (Cash Transaction Report)
+- Series of transactions ≥ ₹10,00,000 in aggregate within a month
+
+Red Flag Indicators:
+✓ Multiple transactions just below ₹10 lakh threshold (₹9-9.9 lakhs)
+✓ Pattern of deposits in amounts like ₹9,50,000 or ₹9,99,000
+✓ Coordinated deposits across multiple branches on same day
+✓ Use of multiple individuals to deposit funds (smurfing)
+✓ Customer resistance when asked about transaction purpose
+✓ Sudden change in transaction patterns near month-end
+
+Example Pattern:
+Customer makes 10 deposits over 15 days:
+- Day 1: ₹9,80,000
+- Day 3: ₹9,75,000
+- Day 5: ₹9,90,000
+(Total: ₹98,50,000 but each transaction avoids ₹10L CTR threshold)
+
+FATF Reference: Recommendation 10, 11
+FIU-IND Circular: FIU-IND/2011/003
+
+═══════════════════════════════════════════════════════════════
+TYPOLOGY 2: RAPID FLOW-THROUGH / LAYERING
+═══════════════════════════════════════════════════════════════
+
+Definition:
+Funds deposited and quickly withdrawn to obscure the audit trail and 
+distance money from its illegal source.
+
+Characteristics:
+- Short time between deposits and withdrawals (24-72 hours)
+- Minimal balance retention (<5% of total inflow)
+- No legitimate business purpose for rapid movement
+- Often involves cross-border wire transfers
+
+Red Flag Indicators:
+✓ Credits totaling ₹50 lakhs+ received within 5-10 days
+✓ 90%+ of credited funds withdrawn within 48 hours
+✓ Multiple incoming transfers immediately consolidated
+✓ Outgoing transfers to different beneficiaries/jurisdictions
+✓ Account used as pass-through rather than for storage
+✓ Transaction velocity inconsistent with customer profile
+
+Example Pattern:
+Week 1: Receives ₹1 crore from 30 different accounts
+Week 2: Transfers ₹98 lakhs to 5 overseas beneficiaries
+Retention: Only ₹2 lakhs (2%) remains in account
+
+Classic "Layering" Phase Indicators:
+- Multiple jurisdictional hops
+- Complex routing through intermediaries
+- Use of multiple currency conversions
+- Involvement of shell companies or trusts
+
+FATF Reference: ML Stages - Layering Phase
+FIU-IND Circular: FIU-IND/2013/007
+
+═══════════════════════════════════════════════════════════════
+TYPOLOGY 3: COLLECTION ACCOUNT / FUNNEL ACCOUNT
+═══════════════════════════════════════════════════════════════
+
+Definition:
+Single account receives funds from numerous unrelated sources, then 
+consolidates and transfers to final destination.
+
+Normal Business Context:
+Legitimate businesses (e-commerce, payment gateways) may show similar 
+patterns BUT with proper documentation and business rationale.
+
+Suspicious Indicators:
+✓ Receiving from 20+ unique sources in short period
+✓ Sources have no apparent relationship to account holder
+✓ Sources located across multiple states/countries
+✓ Incoming amounts relatively uniform (suggesting coordination)
+✓ Immediate consolidation and onward transfer
+✓ Lack of retention for operational expenses
+✓ Account holder's stated business doesn't justify pattern
+
+Example Pattern:
+Small shop owner (stated income ₹6 lakhs/year) receives:
+- 47 credits from 47 different individuals
+- Total: ₹50 lakhs in 7 days
+- All senders previously unknown to account holder
+- No invoices, contracts, or business documentation
+- Funds immediately transferred abroad
+
+Questions to Ask:
+1. What is the business relationship with each sender?
+2. Why so many unique sources?
+3. What goods/services were provided to justify payments?
+4. Why immediate transfer rather than retention?
+
+FATF Reference: Red Flag #12 - Multiple Source Accounts
+FIU-IND: Suspicious Transaction Indicators List
+
+═══════════════════════════════════════════════════════════════
+TYPOLOGY 4: TRADE-BASED MONEY LAUNDERING (TBML)
+═══════════════════════════════════════════════════════════════
+
+Definition:
+Misrepresentation of price, quantity, or quality of imports/exports 
+to transfer value and obscure illicit origins.
+
+Common TBML Techniques:
+
+1. OVER-INVOICING OF EXPORTS
+   Purpose: Move capital out of country
+   Method: Export ₹10L worth goods, invoice at ₹1 crore
+   Result: Excess funds sent abroad "legitimately"
+
+2. UNDER-INVOICING OF IMPORTS
+   Purpose: Reduce customs duties, move black money
+   Method: Import ₹1 crore goods, invoice at ₹10L
+   Result: Difference paid through hawala
+
+3. MULTIPLE INVOICING
+   Purpose: Justify multiple payments for same goods
+   Method: Same shipment invoiced 2-3 times
+   Result: Illegal funds appear as trade payments
+
+4. PHANTOM SHIPPING
+   Purpose: Create paper trail for non-existent goods
+   Method: False bills of lading, fake invoices
+   Result: Money moves without actual trade
+
+Red Flag Indicators for Banks:
+✓ Transaction amounts inconsistent with commodity prices
+✓ Shipments to/from high-risk jurisdictions
+✓ Involvement of shell companies or front businesses
+✓ Frequent amendments to Letters of Credit
+✓ Descriptions of goods vague or inconsistent
+✓ Multiple payments for same shipment
+✓ Trading in goods unrelated to customer's business
+
+Indian Context - High Risk Sectors:
+- Gems and jewelry (under-invoicing common)
+- Electronics (over-invoicing for capital flight)
+- Textiles (both over and under-invoicing)
+- Scrap metal (valuation manipulation)
+
+FATF Best Practices: TBML Risk Indicators (2020)
+RBI Guidelines: Master Direction on KYC - Trade Finance
+
+═══════════════════════════════════════════════════════════════
+TYPOLOGY 5: ROUND-TRIPPING
+═══════════════════════════════════════════════════════════════
+
+Definition:
+Capital taken out of India and brought back as Foreign Direct Investment 
+(FDI) to appear legitimate and access tax benefits.
+
+Typical Structure:
+Indian funds → Mauritius/Singapore shell company → Return as FDI to India
+
+Red Flag Indicators:
+✓ Large outward remittances to tax havens
+✓ Subsequent FDI received from same jurisdictions
+✓ Timing correlation between outflow and inflow
+✓ Use of shell companies with no real operations
+✓ Opaque ownership structures
+✓ Transactions routed through multiple jurisdictions
+
+FIU-IND Guidance: Special attention to transactions involving Mauritius, 
+Singapore, Cayman Islands, British Virgin Islands (BVI).
+
+═══════════════════════════════════════════════════════════════
+TYPOLOGY 6: CASH-INTENSIVE BUSINESS EXPLOITATION
+═══════════════════════════════════════════════════════════════
+
+High-Risk Business Types:
+- Restaurants and hotels
+- Retail shops and supermarkets
+- Entertainment venues (theaters, arcades)
+- Wholesale commodity trading
+- Real estate brokers
+- Jewelers and bullion dealers
+- Money changers and forex dealers
+
+Suspicious Patterns:
+✓ Cash deposits inconsistent with business size
+✓ Revenues far exceeding industry benchmarks
+✓ No proportional increase in operating expenses
+✓ Frequent large cash deposits with no sales invoices
+✓ Business claims growth but no expansion in operations
+
+Example:
+Small restaurant (20 seats) deposits ₹15 lakhs cash monthly
+- Menu prices suggest ₹3-5 lakhs realistic revenue
+- No documented catering or bulk orders
+- No credit card or digital payment records
+- Likely co-mingling legitimate and illegitimate cash
+
+═══════════════════════════════════════════════════════════════
+TYPOLOGY 7: PLACEMENT THROUGH MULTIPLE ACCOUNTS
+═══════════════════════════════════════════════════════════════
+
+Definition:
+Using numerous bank accounts to fragment and place illicit cash, making 
+detection and source-tracing difficult.
+
+Pattern Recognition:
+✓ Customer maintains 5+ accounts at different banks
+✓ Frequent inter-account transfers with no clear purpose
+✓ Accounts opened in quick succession (within weeks)
+✓ Similar transaction patterns across all accounts
+✓ Use of family members' or employees' accounts
+✓ Deposits fragmented to stay below monitoring thresholds
+
+Example Network:
+Person A's 3 accounts + Spouse's 2 accounts + Parent's 1 account
+All receive cash deposits of ₹8-9 lakhs each within same week
+Total placement: ₹50+ lakhs fragmented to avoid aggregation detection
+
+═══════════════════════════════════════════════════════════════
+INDIA-SPECIFIC TYPOLOGIES
+═══════════════════════════════════════════════════════════════
+
+HAWALA / HUNDI SYSTEM
+
+Characteristics:
+- Parallel banking system outside formal channels
+- No physical money movement across borders
+- Settlement through reciprocal arrangements
+- Often used for terror financing
+
+Bank Red Flags:
+✓ Customer receives funds from unrelated parties with no explanation
+✓ Payments to beneficiaries with no documented relationship
+✓ Amounts match international currency rates (suggesting forex)
+✓ Customer unable to provide satisfactory source of funds
+
+BENAMI TRANSACTIONS
+
+Definition (Prohibition of Benami Property Transactions Act, 1988):
+Property held by one person on behalf of another to conceal true ownership.
+
+Banking Indicators:
+✓ Funds deposited by third parties into customer account
+✓ Customer claims beneficial ownership by someone else
+✓ Multiple individuals funding single account with no explanation
+✓ Power of attorney usage to obscure real ownership
+✓ Transactions claimed to be "on behalf of" unnamed parties
+
+REAL ESTATE TRANSACTIONS
+
+High-Risk Characteristics:
+✓ Property purchases with large cash components
+✓ Under-valuation in registration documents
+✓ Multiple buyers/sellers for single property
+✓ Quick flip sales (buy and resell within months)
+✓ Use of power of attorney to hide beneficial owners
+✓ Purchase price significantly below/above market rate
+
+ELECTORAL FUNDING MISUSE
+
+Suspicious Patterns:
+✓ Large cash deposits around election periods
+✓ Deposits in round numbers from multiple individuals
+✓ Described as "political donations" without documentation
+✓ Amounts inconsistent with donor's known income
+✓ Use of multiple accounts to receive similar amounts
+
+═══════════════════════════════════════════════════════════════
+CROSS-BORDER SPECIFIC RED FLAGS
+═══════════════════════════════════════════════════════════════
+
+High-Risk Jurisdictions (FATF Grey/Black List):
+Current: Pakistan, Myanmar, Syria, Yemen, Iran, North Korea
+(Check FATF website for updated list)
+
+Transaction Red Flags:
+✓ Wire transfers to/from sanctioned countries
+✓ Routing through multiple jurisdictions unnecessarily
+✓ Use of correspondent banks in tax havens
+✓ Beneficiary in high-risk jurisdiction with no business ties
+✓ Transaction purposes vague ("family support", "gift")
+✓ Amounts structured to avoid SWIFT reporting thresholds
+
+RBI Liberalized Remittance Scheme (LRS) Misuse:
+- Annual limit: USD 250,000 per individual
+- Suspicious: Multiple family members remitting maximum amounts
+- Red flag: No clear purpose or investment documentation
+- Concern: Coordinated capital flight
+
+═══════════════════════════════════════════════════════════════
+OCCUPATION-SPECIFIC RISK INDICATORS
+═══════════════════════════════════════════════════════════════
+
+STUDENTS / UNEMPLOYED / RETIRED
+Normal activity: Limited, low-value transactions
+Red flags: 
+✓ Receiving ₹10+ lakhs from multiple unknown sources
+✓ Conducting transactions inconsistent with no income
+✓ Foreign remittances not matching educational expenses
+
+SMALL BUSINESS OWNERS
+Normal activity: Regular receipts from known customers
+Red flags:
+✓ Revenue 5-10x beyond reasonable business capacity
+✓ No corresponding inventory purchases or operating costs
+✓ Cash deposits far exceeding card/digital payments
+✓ Business activity inconsistent with location/size
+
+SALARIED EMPLOYEES
+Normal activity: Monthly salary credit, regular expenses
+Red flags:
+✓ Credits other than known employer salary
+✓ Amounts exceeding annual salary significantly
+✓ Regular cash deposits with no explanation
+✓ Foreign remittances beyond known family ties
+
+POLITICALLY EXPOSED PERSONS (PEPs)
+Enhanced scrutiny required per PMLA rules
+Red flags:
+✓ Wealth accumulation inconsistent with known income
+✓ Use of relatives' accounts to obscure ownership
+✓ Shell companies or trusts with opaque structures
+✓ Transactions with high-risk jurisdictions
+
+═══════════════════════════════════════════════════════════════
+REGULATORY FRAMEWORK - INDIA
+═══════════════════════════════════════════════════════════════
+
+Key Legislation:
+1. Prevention of Money Laundering Act (PMLA), 2002
+2. Prevention of Money Laundering (Maintenance of Records) Rules, 2005
+3. Unlawful Activities (Prevention) Act (UAPA), 1967
+4. Foreign Exchange Management Act (FEMA), 1999
+
+FIU-IND Reporting Obligations:
+- Cash Transaction Report (CTR): Transactions ≥ ₹10 lakhs
+- Suspicious Transaction Report (STR): Any amount, any suspicion
+- Cross Border Wire Transfer Report: All international transfers
+- Counterfeit Currency Report: All instances
+
+Filing Timeline:
+- STR: Within 7 days of classification as suspicious
+- CTR: Monthly (by 15th of following month)
+
+Penalties for Non-Compliance:
+- PMLA violations: Fine up to ₹1 lakh per day
+- Willful non-reporting: Imprisonment up to 2 years
+- Entity penalties: ₹10,000 to ₹1,00,000 per violation
+
+═══════════════════════════════════════════════════════════════
+END OF TYPOLOGIES DOCUMENT
+═══════════════════════════════════════════════════════════════
+
+Regular Updates:
+Check FATF website: www.fatf-gafi.org
+Check FIU-IND: fiuindia.gov.in
+These typologies evolve; update annually minimum.

@@ -1,0 +1,16 @@
+date,type,amount,from_account,from_name,to_account,to_name,description,channel
+2024-02-01,Credit,100000,CASH-DEPOSIT,Self,ACC-555666,Suresh Patel,Cash Deposit,Cash
+2024-02-02,Credit,50000,CASH-DEPOSIT,Self,ACC-555666,Suresh Patel,Cash Deposit,Cash
+2024-02-03,Credit,100000,CASH-DEPOSIT,Self,ACC-555666,Suresh Patel,Cash Deposit,Cash
+2024-02-04,Credit,50000,CASH-DEPOSIT,Self,ACC-555666,Suresh Patel,Cash Deposit,Cash
+2024-02-05,Credit,100000,CASH-DEPOSIT,Self,ACC-555666,Suresh Patel,Cash Deposit,Cash
+2024-02-06,Credit,50000,CASH-DEPOSIT,Self,ACC-555666,Suresh Patel,Cash Deposit,Cash
+2024-02-07,Credit,100000,CASH-DEPOSIT,Self,ACC-555666,Suresh Patel,Cash Deposit,Cash
+2024-02-08,Credit,50000,CASH-DEPOSIT,Self,ACC-555666,Suresh Patel,Cash Deposit,Cash
+2024-02-09,Credit,100000,CASH-DEPOSIT,Self,ACC-555666,Suresh Patel,Cash Deposit,Cash
+2024-02-10,Credit,50000,CASH-DEPOSIT,Self,ACC-555666,Suresh Patel,Cash Deposit,Cash
+2024-02-01,Credit,149000,BUSINESS-0,Client Company 0,ACC-555666,Suresh Patel,Business Payment,NEFT
+2024-02-03,Credit,65000,BUSINESS-1,Client Company 1,ACC-555666,Suresh Patel,Business Payment,NEFT
+2024-02-05,Credit,135000,BUSINESS-2,Client Company 2,ACC-555666,Suresh Patel,Business Payment,NEFT
+2024-02-07,Credit,52000,BUSINESS-3,Client Company 3,ACC-555666,Suresh Patel,Business Payment,NEFT
+2024-02-09,Credit,110000,BUSINESS-4,Client Company 4,ACC-555666,Suresh Patel,Business Payment,NEFT

@@ -1,0 +1,378 @@
+touch data/knowledge_base/suspicious_activity_checklist.txt
+```
+
+**📝 PASTE THIS COMPLETE CONTENT:**
+```
+SUSPICIOUS ACTIVITY CHECKLIST
+Quick Reference Guide for AML Compliance Officers
+Financial Intelligence Unit - India (FIU-IND)
+
+═══════════════════════════════════════════════════════════════
+ACCOUNT OPENING & CUSTOMER BEHAVIOR RED FLAGS
+═══════════════════════════════════════════════════════════════
+
+IDENTIFICATION & DOCUMENTATION
+□ Customer reluctant to provide complete identification documents
+□ Identification documents appear altered, forged, or counterfeit
+□ Customer provides minimal or obviously false contact information
+□ Multiple customers provide same address or contact details
+□ Customer uses multiple names or spelling variations
+□ Address is mail drop, virtual office, or vacant property
+□ Customer appears to be nominee for undisclosed beneficial owner
+□ Power of attorney used to obscure true account control
+□ Customer shows no knowledge of their stated business activities
+
+BEHAVIORAL INDICATORS
+□ Customer is secretive or evasive about transaction purpose
+□ Customer unusually anxious or nervous during interactions
+□ Customer makes unusual inquiries about CTR/STR reporting thresholds
+□ Customer attempts to convince staff not to file reports
+□ Customer explicitly requests transactions avoid reporting
+□ Customer shows sophisticated knowledge of AML regulations
+□ Customer threatens staff when asked routine KYC questions
+□ Customer changes transaction when learning of reporting requirement
+□ Customer provides contradictory information across visits
+□ Customer accompanied by person who dominates conversation
+
+ACCOUNT ACTIVITY PATTERNS
+□ Customer maintains multiple accounts with no apparent purpose
+□ Accounts opened in quick succession (within days/weeks)
+□ Similar transaction patterns across multiple accounts
+□ Accounts dormant then suddenly highly active
+□ Customer conducts business unusual for stated occupation
+□ Account activity inconsistent with customer's age or profile
+□ Customer refuses to maintain minimum balances to avoid scrutiny
+□ Frequent address or contact information changes
+
+═══════════════════════════════════════════════════════════════
+CASH TRANSACTION RED FLAGS
+═══════════════════════════════════════════════════════════════
+
+STRUCTURING INDICATORS
+□ Deposits just below ₹10 lakh CTR threshold (₹9-9.9 lakhs)
+□ Multiple deposits on same day totaling above threshold
+□ Customer breaks large cash into smaller deposits over days
+□ Pattern of deposits in specific amounts (₹9,50,000, ₹9,99,000)
+□ Coordinated deposits at multiple branches same day
+□ Use of multiple individuals to make deposits (smurfing)
+□ Sudden change in deposit patterns near month-end
+□ Customer makes deposits at unusual times (late night)
+□ Deposits clustered on specific days of week
+□ Customer inquires about aggregation rules before depositing
+
+CASH DEPOSIT PATTERNS
+□ Cash deposits inconsistent with customer's stated business
+□ Large cash deposits with no business rationale
+□ Deposits in small denominations suggesting retail origin
+□ Deposits in new, sequential notes suggesting organized source
+□ Deposits in damaged or soiled notes
+□ Cash deposits followed immediately by outgoing wire transfers
+□ Customer unable to explain source of cash when asked
+□ Deposits on behalf of third parties not related to business
+□ Frequency of cash deposits unusual for business type
+□ Cash activity increases without corresponding business growth
+
+CASH WITHDRAWAL PATTERNS
+□ Large cash withdrawals with no business explanation
+□ Cash withdrawn immediately after deposits clear
+□ Withdrawals in round numbers with no variation
+□ Pattern of maximum daily ATM withdrawals
+□ Withdrawals just before regulatory reporting deadlines
+□ Customer requests specific denominations (all ₹500 notes)
+□ Withdrawals claimed for payroll but inconsistent with employee count
+
+═══════════════════════════════════════════════════════════════
+WIRE TRANSFER & ELECTRONIC PAYMENT RED FLAGS
+═══════════════════════════════════════════════════════════════
+
+DOMESTIC WIRE TRANSFERS
+□ Multiple wire transfers just below ₹10 lakh threshold
+□ Frequent transfers between unrelated accounts
+□ Wire transfers to/from multiple parties with no relationship
+□ Transfers with vague or inconsistent purpose descriptions
+□ Round number transfers suggesting non-commercial nature
+□ Transfers immediately after cash deposits
+□ Beneficiary changes at last minute
+□ Transfer instructions overly complex or unusual
+□ Same-day transfers in and out with no retention
+□ Transfer patterns inconsistent with business type
+
+INTERNATIONAL WIRE TRANSFERS
+□ Transfers to/from high-risk or sanctioned countries
+□ Transfers to offshore tax havens with no business rationale
+□ Routing through multiple jurisdictions unnecessarily
+□ Beneficiary in jurisdiction inconsistent with trade patterns
+□ Transfer amount inconsistent with trade invoice values
+□ Purpose vague ("family support", "gift", "loan")
+□ Transfers split to avoid regulatory thresholds
+□ No supporting trade documentation for large transfers
+□ Customer insists on specific correspondent banks
+□ Frequent amendments to transfer instructions
+□ Transfers to shell companies or entities with no web presence
+□ Currency exchange rates suggest hawala/hundi settlement
+
+REMITTANCE PATTERNS
+□ Multiple individuals remitting to same overseas beneficiary
+□ Remittances inconsistent with customer's income level
+□ Student remittances far exceeding educational expenses
+□ Family remittances to countries with no family ties
+□ Remittances to multiple countries with no explanation
+□ LRS limit (USD 250K) utilized by entire family
+□ Business purpose claimed but no supporting documentation
+□ Frequent changes to beneficiary details
+
+═══════════════════════════════════════════════════════════════
+ACCOUNT ACTIVITY PATTERN RED FLAGS
+═══════════════════════════════════════════════════════════════
+
+TRANSACTION VELOCITY
+□ Sudden spike in transaction volume (5x+ normal activity)
+□ Account dormant for months then highly active
+□ Transactions occurring at unusual hours
+□ Multiple transactions on same day from different locations
+□ Activity inconsistent with account opening stated purpose
+□ Transactions clustered around specific dates/events
+□ Frequency increases without business growth justification
+
+FLOW-THROUGH PATTERNS
+□ Credits totaling ₹50 lakhs+ within 5-10 days
+□ 90%+ of credits withdrawn within 24-48 hours
+□ Multiple incoming transfers immediately consolidated
+□ Outgoing transfers to different beneficiaries than senders
+□ Minimal balance retention (<5% of turnover)
+□ Account used as pass-through rather than for storage
+□ No legitimate business purpose for rapid movement
+
+MULTIPLE CREDITOR PATTERNS
+□ Receiving from 20+ unique sources in short period
+□ Creditors have no apparent relationship to account holder
+□ Creditors located across multiple states/countries
+□ Incoming amounts relatively uniform (coordination indicator)
+□ No invoices, contracts, or business documentation
+□ Customer unable to explain relationships with creditors
+□ Creditors are individuals but customer claims business income
+
+ROUND NUMBER INDICATORS
+□ 60%+ of transactions are round numbers (₹1L, ₹5L, ₹10L)
+□ Transaction amounts show no decimal variations
+□ Patterns suggest coordination rather than organic business
+□ Round numbers inconsistent with typical retail/service pricing
+□ Customer unable to explain why all amounts are round
+
+═══════════════════════════════════════════════════════════════
+BUSINESS-SPECIFIC RED FLAGS
+═══════════════════════════════════════════════════════════════
+
+CASH-INTENSIVE BUSINESSES
+□ Restaurant revenues far exceeding seating capacity
+□ Retail sales inconsistent with inventory purchases
+□ No proportional increase in operating expenses despite revenue growth
+□ Business shows profit but no tax filings
+□ Cash deposits with no credit card/digital payment record
+□ Business location doesn't support claimed revenue levels
+□ Seasonal business showing uniform revenue year-round
+□ No employee costs despite claiming large workforce
+
+IMPORT/EXPORT BUSINESSES
+□ Transaction amounts inconsistent with commodity market prices
+□ Multiple payments for same shipment
+□ Frequent Letter of Credit amendments
+□ Goods description vague or frequently changing
+□ Trading in commodities unrelated to business expertise
+□ Shipments to/from high-risk jurisdictions
+□ No customs or shipping documentation when requested
+□ Over-invoicing or under-invoicing patterns
+□ Triangular trade patterns with no economic rationale
+
+PROFESSIONAL SERVICES
+□ Consultant receiving payments from unrelated industries
+□ Fee amounts inconsistent with professional norms
+□ No retainer agreements or service contracts
+□ Multiple clients all in high-risk businesses
+□ Fees paid in cash for high-value services
+□ Client relationships cannot be verified
+□ Services claimed don't match professional qualifications
+
+REAL ESTATE TRANSACTIONS
+□ Property purchase with large cash down payment
+□ Multiple buyers/sellers for single property
+□ Purchase price significantly below/above market value
+□ Quick flip sales (buy and resell within months)
+□ Power of attorney used to obscure beneficial owner
+□ Buyer has no apparent means to afford property
+□ Seller cannot explain source of property acquisition funds
+□ Transaction involves offshore entities
+
+═══════════════════════════════════════════════════════════════
+OCCUPATION-BASED RED FLAGS
+═══════════════════════════════════════════════════════════════
+
+STUDENTS
+□ Receiving ₹10+ lakhs from multiple unknown sources
+□ Income inconsistent with part-time work possibilities
+□ Foreign remittances far exceeding tuition/living costs
+□ Conducting business transactions despite student visa
+□ Multiple students sharing same funding source
+□ Remittances to countries other than home country
+
+UNEMPLOYED/RETIRED
+□ Significant deposits with no income source
+□ Lifestyle expenses inconsistent with unemployment/pension
+□ Conducting high-value transactions regularly
+□ Receiving funds from business sources
+□ Unable to explain source when questioned
+
+SMALL BUSINESS OWNERS
+□ Revenues 5-10x beyond reasonable business capacity
+□ No corresponding inventory or supply purchases
+□ Business expenses not proportional to claimed revenue
+□ Cash intensity far beyond industry norms
+□ Business activity inconsistent with stated nature
+□ Multiple businesses in unrelated sectors
+
+SALARIED EMPLOYEES
+□ Credits exceeding annual salary by 3x+
+□ Regular deposits beyond known employer salary
+□ Business income claimed despite full-time employment
+□ Foreign remittances with no documented reason
+□ Lifestyle inconsistent with known salary level
+
+POLITICALLY EXPOSED PERSONS (PEPs)
+□ Wealth accumulation inconsistent with official salary
+□ Use of family members' accounts to layer transactions
+□ Shell companies with opaque ownership
+□ Transactions with high-risk jurisdictions
+□ Sudden wealth after assuming public office
+□ Assets transferred to family before investigation
+□ Transactions timed around procurement decisions
+
+═══════════════════════════════════════════════════════════════
+GEOGRAPHIC & JURISDICTIONAL RED FLAGS
+═══════════════════════════════════════════════════════════════
+
+HIGH-RISK COUNTRIES (FATF)
+□ Transactions to/from FATF blacklisted countries
+□ Iran, North Korea, Myanmar (current blacklist)
+□ Transactions with FATF grey list countries (check updated list)
+□ Sanctioned jurisdictions per UN/US/EU lists
+
+TAX HAVENS
+□ Mauritius, Singapore, Cayman Islands, BVI (common tax havens)
+□ Transfers to countries known for banking secrecy
+□ Use of shell companies in offshore jurisdictions
+□ No legitimate business purpose for offshore involvement
+
+BORDER AREAS (INDIA-SPECIFIC)
+□ Unusual activity involving border state customers
+□ Transactions with Nepal, Bangladesh border areas
+□ Cash movements toward border regions
+□ Customers claiming business in border trade without documentation
+
+═══════════════════════════════════════════════════════════════
+THIRD-PARTY & INTERMEDIARY RED FLAGS
+═══════════════════════════════════════════════════════════════
+
+THIRD-PARTY TRANSACTIONS
+□ Frequent third-party deposits into account
+□ Third parties unrelated to customer or their business
+□ Customer claims beneficial ownership lies elsewhere
+□ Unable to identify ultimate beneficial owner
+□ Third parties are PEPs or known high-risk individuals
+□ Power of attorney used by multiple third parties
+
+INTERMEDIARY USAGE
+□ Lawyer/CA making deposits on behalf of client
+□ Professional unable to identify ultimate client
+□ Multiple clients all using same intermediary
+□ Intermediary resists providing client information
+□ Transactions structured through intermediary network
+
+═══════════════════════════════════════════════════════════════
+EMPLOYEE BEHAVIOR INDICATORS
+═══════════════════════════════════════════════════════════════
+
+POTENTIAL INSIDER INVOLVEMENT
+□ Employee processes transactions for same customer repeatedly
+□ Employee bypasses approval processes
+□ Employee accesses customer records without business need
+□ Employee has unexplained relationship with customer
+□ Employee discourages filing of STR/CTR
+□ Employee lifestyle inconsistent with salary
+□ Employee instructs customer on avoiding detection
+□ Employee creates false records or backdates entries
+
+═══════════════════════════════════════════════════════════════
+TECHNOLOGY & DIGITAL PAYMENT RED FLAGS
+═══════════════════════════════════════════════════════════════
+
+UPI/DIGITAL PAYMENTS
+□ Multiple UPI accounts linked to single bank account
+□ UPI transactions just below daily limits consistently
+□ Merchant account receiving funds from numerous individuals
+□ QR code payments from unrelated parties
+□ Digital wallet loading/unloading patterns
+□ Cryptocurrency purchase patterns
+□ Gaming/gambling transactions concealing true purpose
+
+═══════════════════════════════════════════════════════════════
+DOCUMENTATION & RECORD RED FLAGS
+═══════════════════════════════════════════════════════════════
+
+DOCUMENTATION ISSUES
+□ Supporting documents appear forged or altered
+□ Invoices don't match transaction amounts
+□ Contracts lack specific terms or appear template
+□ Dates on documents inconsistent with transaction timeline
+□ Signatures vary across different documents
+□ Documents provided only after multiple requests
+□ Customer claims documents "lost" when requested
+
+═══════════════════════════════════════════════════════════════
+ASSESSMENT & ACTION MATRIX
+═══════════════════════════════════════════════════════════════
+
+SCORING GUIDE:
+1 red flag = Heightened attention
+2-3 red flags = Enhanced due diligence required
+4-5 red flags = Senior review required
+6+ red flags = Strong SAR consideration
+10+ red flags = Immediate SAR filing + management escalation
+
+IMMEDIATE ACTIONS:
+□ Document all observations contemporaneously
+□ Collect supporting evidence (transaction records, statements)
+□ Review historical account activity
+□ Check for related accounts (family, business)
+□ Search internal watch lists and sanctions lists
+□ Consult AML officer before proceeding
+□ Prepare preliminary SAR if thresholds met
+□ Do NOT alert customer to suspicions (tipping off violation)
+
+═══════════════════════════════════════════════════════════════
+LEGAL REMINDERS
+═══════════════════════════════════════════════════════════════
+
+TIPPING OFF PROHIBITION:
+Informing customer that SAR has been/will be filed is CRIMINAL OFFENSE
+under PMLA Section 12. Penalties include imprisonment up to 2 years.
+
+GOOD FAITH PROTECTION:
+SAR filed in good faith provides legal protection even if subsequently
+determined unfounded (PMLA Section 14).
+
+FILING TIMELINE:
+STR must be filed within 7 working days of classification as suspicious.
+Late filing may result in penalties.
+
+═══════════════════════════════════════════════════════════════
+END OF CHECKLIST
+═══════════════════════════════════════════════════════════════
+
+Version: 2024.1
+Issued by: FIU-IND Compliance Division
+Last Updated: March 2024
+Next Review: March 2025
+
+This checklist should be used as guidance, not exhaustive criteria.
+Suspicion can arise from single indicator or combination of factors.
+When in doubt, consult AML Compliance Officer.

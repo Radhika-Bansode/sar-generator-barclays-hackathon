@@ -1,0 +1,6 @@
+date,type,amount,from_account,from_name,to_account,to_name,description,channel
+2024-01-05,Credit,85000,EMPLOYER-ACC-001,ABC Corporation Ltd,ACC-111222,Priya Sharma,Monthly Salary - January 2024,NEFT
+2024-01-10,Debit,25000,ACC-111222,Priya Sharma,LANDLORD-ACC,Property Rentals,House Rent - January,UPI
+2024-01-15,Debit,5000,ACC-111222,Priya Sharma,UTILITY-001,Electricity Board,Electricity Bill,IMPS
+2024-01-20,Debit,3500,ACC-111222,Priya Sharma,TELECOM-001,Airtel,Mobile Bill,UPI
+2024-01-25,Credit,15000,FREELANCE-CLIENT,XYZ Designs,ACC-111222,Priya Sharma,Freelance Project Payment,NEFT

@@ -1,0 +1,10 @@
+date,type,amount,from_account,from_name,to_account,to_name,description,channel,reference_number
+2024-03-20,Credit,450000.00,EXT-001,Global Imports Ltd,987654321,Apex Holdings LLC,International Transfer,SWIFT,REF-99201
+2024-03-21,Debit,448000.00,987654321,Apex Holdings LLC,EXT-002,Offshore Logistics BV,Vendor Payment,SWIFT,REF-99202
+2024-03-22,Credit,9900.00,VAR-101,Retail Customer 1,987654321,Apex Holdings LLC,Service Fee,NEFT,REF-99203
+2024-03-22,Credit,9900.00,VAR-102,Retail Customer 2,987654321,Apex Holdings LLC,Service Fee,NEFT,REF-99204
+2024-03-22,Credit,9950.00,VAR-103,Retail Customer 3,987654321,Apex Holdings LLC,Service Fee,NEFT,REF-99205
+2024-03-23,Credit,9800.00,VAR-104,Retail Customer 4,987654321,Apex Holdings LLC,Service Fee,NEFT,REF-99206
+2024-03-23,Debit,39000.00,987654321,Apex Holdings LLC,CRYPTO-01,Digital Asset Exchange,Asset Purchase,Wire,REF-99207
+2024-03-24,Credit,9950.00,VAR-105,Retail Customer 5,987654321,Apex Holdings LLC,Service Fee,NEFT,REF-99208
+2024-03-24,Debit,9000.00,987654321,Apex Holdings LLC,CASH-01,Cash Withdrawal,Branch Withdrawal,Cash,REF-99209

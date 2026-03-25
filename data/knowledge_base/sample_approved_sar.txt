@@ -1,0 +1,362 @@
+touch data/knowledge_base/sample_approved_sar.txt
+```
+
+**📝 PASTE THIS COMPLETE CONTENT:**
+```
+APPROVED SAMPLE SAR NARRATIVE
+Financial Intelligence Unit - India (FIU-IND)
+Reference Example for Proper SAR Documentation
+
+═══════════════════════════════════════════════════════════════
+SUSPICIOUS ACTIVITY REPORT
+═══════════════════════════════════════════════════════════════
+
+Report Reference Number: STR-2024-MUM-00156
+Date of Report: 15-January-2024
+Reporting Entity: ABC Bank Limited, Mumbai Branch
+Reporting Officer: Priya Sharma, AML Compliance Officer
+
+═══════════════════════════════════════════════════════════════
+SECTION 1: BACKGROUND AND ACCOUNT INFORMATION
+═══════════════════════════════════════════════════════════════
+
+The savings account number 9876543210 in the name of Rajesh Kumar was 
+opened on 10-May-2023 at ABC Bank Limited, Andheri Branch, Mumbai. The 
+customer identified himself through Aadhaar card number XXXX-XXXX-5678 
+and PAN card ABCDE1234F. At the time of account opening, Mr. Kumar 
+declared his occupation as "Small Business Owner" operating a retail 
+grocery store in Andheri West, Mumbai. His stated annual income was 
+₹6,00,000 (Six Lakhs Rupees Only), and he declared the source of funds 
+as "Business Receipts from Grocery Sales."
+
+The customer provided a residential address at Shop No. 15, Lokhandwala 
+Complex, Andheri West, Mumbai - 400053. Initial account opening 
+documentation included photographs, address proof (electricity bill dated 
+April 2023), and business registration certificate showing "Kumar General 
+Stores" registered in May 2022.
+
+Historical account activity from May 2023 to December 2023 showed monthly 
+credit turnover averaging ₹75,000 to ₹1,25,000, primarily consisting of 
+cash deposits in denominations of ₹5,000 to ₹25,000, consistent with 
+small retail business operations. Typical monthly debit transactions 
+totaled ₹50,000 to ₹80,000, comprising supplier payments, utility bills, 
+and personal withdrawals. Average monthly balance maintained was 
+approximately ₹40,000 to ₹60,000.
+
+Customer Due Diligence was last updated on 15-November-2023. The account 
+was classified as "Medium Risk" based on cash-intensive business nature. 
+No Enhanced Due Diligence measures were warranted at that time. The 
+customer's KYC compliance status was current with all required 
+documentation on file.
+
+═══════════════════════════════════════════════════════════════
+SECTION 2: DESCRIPTION OF SUSPICIOUS ACTIVITY
+═══════════════════════════════════════════════════════════════
+
+The suspicious activity commenced on 10-January-2024 and continued 
+through 17-January-2024, spanning a period of eight (8) days.
+
+During this period, the account received forty-seven (47) credit 
+transactions from forty-seven (47) distinct sender accounts, as detailed 
+below:
+
+On 10-January-2024, the account received six (6) credit transactions:
+- ₹1,20,000 from account HDFC-458796, account holder Amit Patel, 
+  via NEFT, reference NEFT24010501234, description "Business Payment"
+- ₹95,000 from account ICICI-789654, account holder Priya Singh, 
+  via RTGS, reference RTGS24010501456, description "Invoice Payment"
+- ₹1,50,000 from account SBI-654987, account holder Rahul Sharma, 
+  via IMPS, reference IMPS24010501789, description "Service Charge"
+- ₹1,10,000 from account AXIS-321654, account holder Deepak Gupta, 
+  via NEFT, reference NEFT24010502345, description "Consulting Fee"
+- ₹9,50,000 from account BOI-987321, account holder Vijay Reddy, 
+  via RTGS, reference RTGS24010502678, description "Purchase Payment"
+- ₹1,35,000 from account PNB-456123, account holder Anita Kumar, 
+  via NEFT, reference NEFT24010503456, description "Project Payment"
+
+On 11-January-2024 through 16-January-2024, similar patterns continued 
+with the account receiving between five (5) to eight (8) credit 
+transactions daily from different sender accounts. Each transaction 
+ranged between ₹85,000 and ₹1,50,000, with several transactions 
+clustering around ₹9,50,000 to ₹9,90,000 (just below the ₹10,00,000 
+CTR reporting threshold). All incoming transfers were via NEFT, RTGS, 
+or IMPS channels.
+
+Transaction descriptions consistently indicated business purposes such as 
+"Invoice Payment," "Business Payment," "Service Charge," "Consulting Fee," 
+and "Project Payment." However, the customer's known business as a small 
+grocery store operator would not typically generate such high-value 
+receipts from numerous corporate and individual sources nationwide.
+
+Aggregate credits during the eight-day period totaled ₹52,35,000 
+(Fifty-Two Lakhs Thirty-Five Thousand Rupees Only) from forty-seven (47) 
+unique sender accounts located across twelve (12) different states, 
+including Maharashtra, Karnataka, Tamil Nadu, Gujarat, Delhi, West Bengal, 
+Telangana, Rajasthan, Madhya Pradesh, Uttar Pradesh, Kerala, and Punjab.
+
+On 17-January-2024, immediately following the consolidation of credits, 
+the account executed two (2) significant debit transactions:
+
+- ₹50,000 debit via IMPS to account IDFC-789456, account holder 
+  "Utility Services Pvt Ltd," reference IMPS24011701234, 
+  description "Utility Bill Payment"
+
+- ₹49,50,000 debit via SWIFT international wire transfer to beneficiary 
+  account SG-DBS-789654 at DBS Bank Singapore, beneficiary name 
+  "ABC Trading Pte Ltd," reference SWIFT24011701456, 
+  description "International Wire Transfer - Trade Payment - Singapore"
+
+Following these debits, the account retained only ₹85,000, representing 
+approximately 1.6% of the total credited amount during the suspicious period.
+
+No prior international wire transfers had been conducted from this account 
+in its entire operational history (May 2023 to January 2024). The customer 
+had never indicated international business operations during account 
+opening or subsequent KYC updates. The stated business of operating a 
+local grocery store does not involve import/export activities or 
+cross-border trade requiring international wire transfers.
+
+═══════════════════════════════════════════════════════════════
+SECTION 3: SUSPICIOUS INDICATORS AND RED FLAGS
+═══════════════════════════════════════════════════════════════
+
+The following suspicious indicators were identified during the review 
+of account activity:
+
+1. MULTIPLE UNIQUE CREDITORS (FinCEN Red Flag #12):
+The account received funds from forty-seven (47) distinct and apparently 
+unrelated sender accounts within eight (8) days. This pattern is 
+inconsistent with the customer's stated business of operating a small 
+retail grocery store, which would typically receive payments from a 
+limited number of regular customers or suppliers. The customer has 
+provided no documentation (invoices, contracts, or business agreements) 
+explaining the relationships with these forty-seven creditors.
+
+2. STRUCTURING PATTERN (FinCEN Advisory FIN-2012-A001):
+Nine (9) of the forty-seven (47) credit transactions were in the range 
+of ₹9,50,000 to ₹9,90,000, amounts that appear deliberately structured 
+to remain just below the ₹10,00,000 Cash Transaction Report threshold 
+mandated under PMLA 2002. This pattern suggests intentional avoidance 
+of regulatory reporting requirements.
+
+3. RAPID FLOW-THROUGH / LAYERING (FATF ML Stages):
+The account demonstrated classic "layering" behavior with 94.6% of 
+credited funds (₹49,50,000 out of ₹52,35,000) withdrawn within seven (7) 
+days via international wire transfer. The minimal retention of 1.6% 
+indicates the account was used as a pass-through or collection vehicle 
+rather than for legitimate business operations that would require working 
+capital retention.
+
+4. GEOGRAPHIC DISPERSION:
+Credits originated from twelve (12) different states across India, 
+involving parties with no apparent geographic or business connection to 
+the customer's grocery store operations in Mumbai. This widespread 
+geographic distribution suggests coordination among multiple parties 
+rather than organic business relationships.
+
+5. CROSS-BORDER TRANSFER WITHOUT BUSINESS RATIONALE:
+The ₹49,50,000 international wire transfer to Singapore represents the 
+first and only cross-border transaction in the account's history. The 
+customer's stated business operations are entirely domestic and retail in 
+nature, providing no legitimate basis for international trade payments. 
+No import/export documentation, Letters of Credit, or shipping documents 
+were presented or available on file.
+
+6. OCCUPATION-INCOME INCONSISTENCY (RBI KYC Guidelines):
+The transaction volume of ₹52,35,000 over eight (8) days represents 
+approximately eight times (8x) the customer's stated annual income of 
+₹6,00,000. This activity is fundamentally inconsistent with the expected 
+cash flow of a small grocery store operation and vastly exceeds the 
+customer's declared income capacity.
+
+7. ROUND NUMBER PATTERN:
+Sixty-four percent (64%) of the incoming credit transactions were in 
+round numbers (₹1,00,000, ₹1,50,000, ₹9,50,000, etc.), suggesting 
+artificial or coordinated transactions rather than genuine commercial 
+payments that would typically reflect invoice amounts with decimal 
+variations.
+
+8. SUDDEN DEVIATION FROM ESTABLISHED PATTERN:
+The suspicious activity represents a dramatic departure from the 
+account's established eight-month history of modest, cash-based retail 
+operations. Prior monthly credit turnover averaged ₹75,000 to ₹1,25,000; 
+the suspicious period showed ₹52,35,000 in eight days, approximately 
+forty times (40x) the normal monthly volume.
+
+═══════════════════════════════════════════════════════════════
+SECTION 4: TRANSACTION PATTERN ANALYSIS
+═══════════════════════════════════════════════════════════════
+
+QUANTITATIVE ANALYSIS:
+
+Volume Analysis:
+- Total credits during suspicious period: ₹52,35,000
+- Total debits during suspicious period: ₹50,00,000
+- Net change in balance: +₹2,35,000
+- Number of credit transactions: 47
+- Number of debit transactions: 2
+- Average credit transaction size: ₹1,11,383
+- Time period: 8 days (10-January-2024 to 17-January-2024)
+
+Source Analysis:
+- Number of unique credit sources: 47 (100% unique senders)
+- Geographic distribution: 12 states
+- Relationship to customer: All apparently unrelated third parties
+- Business documentation: None provided or available
+
+Temporal Analysis:
+- Credits received: 10-January-2024 through 16-January-2024 (7 days)
+- Debits executed: 17-January-2024 (1 day after final credit)
+- Time from first credit to major debit: 7 days
+- Transaction frequency: 5-8 credits per day during active period
+- Pattern indicates coordinated rapid accumulation followed by 
+  immediate consolidation and outward transfer
+
+Flow Pattern Analysis:
+- Retention rate: 1.6% (₹85,000 retained out of ₹52,35,000)
+- Flow-through rate: 94.6% (₹49,50,000 transferred out)
+- Destination: 96.4% to Singapore (₹49,50,000), 3.6% domestic (₹50,000)
+- Time to outflow: <24 hours after final credit received
+
+Comparative Analysis:
+Historical normal activity (May 2023 - December 2023):
+- Average monthly credit turnover: ₹1,00,000
+- Average monthly debit turnover: ₹65,000
+- Typical transaction size: ₹5,000 to ₹25,000
+- Transaction frequency: 15-20 per month
+- Sources: Local cash deposits and occasional supplier payments
+
+Suspicious period activity (January 2024):
+- Credit turnover in 8 days: ₹52,35,000 (52x monthly average)
+- Debit amount: ₹49,50,000 (76x monthly average)
+- Transaction size range: ₹85,000 to ₹9,90,000
+- Transaction frequency: 47 credits in 8 days
+- Sources: 47 unique electronic transfers from nationwide parties
+
+The suspicious period activity represents an increase of approximately 
+5,235% compared to established monthly patterns.
+
+═══════════════════════════════════════════════════════════════
+SECTION 5: TYPOLOGY CLASSIFICATION
+═══════════════════════════════════════════════════════════════
+
+The observed pattern is consistent with the "Collection Account / Funnel 
+Account" typology as described in FATF Money Laundering Typology Report 
+(2023) and FIU-IND Circular FIU-IND/2013/007 on Suspicious Transaction 
+Indicators.
+
+Specifically, the pattern matches the following typological characteristics:
+
+LAYERING STAGE INDICATORS (FATF Three-Stage Model):
+The activity demonstrates classic "layering" phase characteristics where 
+illicit funds are moved through multiple accounts to obscure the audit 
+trail and distance the money from its illegal source. The forty-seven (47) 
+incoming transfers from diverse geographic locations, followed by rapid 
+consolidation and international transfer, creates multiple transaction 
+layers that complicate source-tracing efforts.
+
+COLLECTION ACCOUNT PATTERN (FinCEN Red Flag #12):
+The account functioned as a collection or aggregation point where funds 
+from numerous unrelated sources were consolidated before onward transfer 
+to the final destination. The customer's account served as an intermediary 
+node in a larger money movement network rather than as a legitimate 
+business operational account.
+
+CROSS-BORDER MONEY LAUNDERING (FATF Recommendation 16):
+The ultimate destination of ninety-six percent (96%) of funds to Singapore 
+via international wire transfer, combined with the absence of any 
+legitimate trade documentation or business rationale, is indicative of 
+cross-border money laundering. Singapore, while a legitimate financial 
+center, is also utilized in money laundering schemes due to its 
+international banking infrastructure and ease of establishing corporate 
+entities.
+
+SMURFING / STRUCTURING (PMLA 2002):
+The deliberate use of transaction amounts clustering around ₹9,50,000 to 
+₹9,90,000 (just below the ₹10,00,000 CTR threshold) demonstrates 
+intentional structuring to avoid regulatory reporting obligations. This 
+is a violation of Section 12 of the Prevention of Money Laundering Act, 
+2002.
+
+The combination of these typological elements suggests a coordinated, 
+multi-party scheme to move illicit funds through the Indian banking 
+system and out to an international destination, utilizing the customer's 
+account as a temporary aggregation point to obscure the original source 
+and ultimate beneficiary of the funds.
+
+═══════════════════════════════════════════════════════════════
+SECTION 6: CONCLUSION AND RECOMMENDATION
+═══════════════════════════════════════════════════════════════
+
+SUMMARY:
+Account number 9876543210 in the name of Rajesh Kumar demonstrated 
+suspicious activity between 10-January-2024 and 17-January-2024, 
+receiving ₹52,35,000 from forty-seven (47) unrelated sources and 
+transferring ₹49,50,000 to Singapore within eight (8) days. This 
+activity is fundamentally inconsistent with the customer's stated 
+occupation as a small grocery store operator with annual income of 
+₹6,00,000.
+
+RISK ASSESSMENT:
+Based on eight (8) identified red flags, consistency with known money 
+laundering typologies (collection account, layering, structuring, 
+cross-border transfer), and the complete absence of legitimate business 
+documentation, this activity presents HIGH RISK of money laundering.
+
+The coordinated nature of the incoming transfers, geographic dispersion 
+of sources, structuring patterns, rapid flow-through, and unexplained 
+international wire transfer collectively indicate that the account was 
+utilized as an intermediary vehicle in a larger money laundering operation.
+
+REGULATORY COMPLIANCE STATEMENT:
+This Suspicious Transaction Report is filed in compliance with Section 12 
+of the Prevention of Money Laundering Act, 2002 (PMLA) and Rules 3 and 7 
+of the Prevention of Money Laundering (Maintenance of Records) Rules, 2005. 
+The report is submitted to the Financial Intelligence Unit - India (FIU-IND) 
+within seven (7) working days of classification as suspicious, as mandated 
+by FIU-IND guidelines.
+
+ACTIONS TAKEN:
+- Account flagged for Enhanced Due Diligence monitoring: YES
+- Account temporarily restricted pending investigation: YES
+- Additional customer due diligence initiated: YES
+- Customer interviewed regarding transactions: PENDING
+- Senior management notification: Completed on 18-January-2024
+- Branch security informed: Completed on 18-January-2024
+
+The customer has not been informed of this report filing in accordance 
+with PMLA Section 12 prohibition against "tipping off," which constitutes 
+a criminal offense punishable under Indian law.
+
+PREPARED BY:
+Name: Priya Sharma
+Title: Assistant Vice President - AML Compliance
+Employee ID: EMP-2345
+Date: 22-January-2024
+Contact: priya.sharma@abcbank.com | +91-22-XXXX-XXXX
+
+REVIEWED BY:
+Name: Suresh Iyer
+Title: Chief Compliance Officer
+Employee ID: EMP-1001
+Date: 23-January-2024
+Approval: APPROVED FOR FILING
+
+SUBMITTED TO:
+Financial Intelligence Unit - India (FIU-IND)
+Electronic Submission Date: 24-January-2024
+FIU-IND Acknowledgment Number: STR-ACK-2024-015623
+
+═══════════════════════════════════════════════════════════════
+END OF SUSPICIOUS ACTIVITY REPORT
+═══════════════════════════════════════════════════════════════
+
+Document Classification: CONFIDENTIAL - FIU-IND REPORTING
+Retention Period: 10 years as per PMLA Records Rules
+Access Restricted: AML Compliance Personnel Only
+
+This document contains confidential financial intelligence information
+filed with regulatory authorities. Unauthorized disclosure may constitute
+a criminal offense under PMLA Section 12 (tipping off provision).
+
+═══════════════════════════════════════════════════════════════

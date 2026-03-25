@@ -1,0 +1,242 @@
+
+SAR NARRATIVE STRUCTURE TEMPLATE
+Financial Intelligence Unit - India (FIU-IND)
+Suspicious Activity Report Writing Guidelines
+
+═══════════════════════════════════════════════════════════════
+
+MANDATORY SECTIONS FOR SAR NARRATIVE
+
+All Suspicious Activity Reports must contain the following six sections
+in the order specified below:
+
+═══════════════════════════════════════════════════════════════
+SECTION 1: BACKGROUND AND ACCOUNT INFORMATION
+═══════════════════════════════════════════════════════════════
+
+Required Elements:
+1. Customer Identification
+   - Full legal name of account holder
+   - Account number and account type (savings/current/NRE/NRO)
+   - Date account was opened
+   - Customer identification verified through (Aadhaar/PAN/Passport)
+
+2. Customer Profile
+   - Stated occupation and nature of business
+   - Annual income as declared in KYC
+   - Source of funds/wealth declaration
+   - Residential address (complete with pin code)
+
+3. Account History
+   - Normal account behavior over past 6-12 months
+   - Average monthly credit turnover (historical)
+   - Average monthly debit turnover (historical)
+   - Typical transaction patterns and frequencies
+   - Nature of regular transactions (salary, business receipts, etc.)
+
+4. KYC Compliance Status
+   - Date of last KYC update
+   - Risk category assigned (Low/Medium/High)
+   - Customer Due Diligence measures applied
+   - Enhanced Due Diligence status (if applicable)
+
+Example Format:
+"The account [ACCOUNT NUMBER] in the name of [CUSTOMER NAME] was opened on 
+[DATE]. The customer identified themselves through [ID TYPE] and declared their 
+occupation as [OCCUPATION] with annual income of ₹[AMOUNT]. Historical account 
+activity shows monthly credit turnover averaging ₹[AMOUNT] from [SOURCE]."
+
+═══════════════════════════════════════════════════════════════
+SECTION 2: DESCRIPTION OF SUSPICIOUS ACTIVITY
+═══════════════════════════════════════════════════════════════
+
+Chronological Narrative Required:
+- Start with exact date suspicious activity commenced
+- Describe each significant transaction with precision
+- Include: Date, Amount, Source/Destination, Channel, Purpose
+- Present facts in sequence without conclusory statements
+
+Transaction Description Format:
+"On [DATE], the account received a credit of ₹[EXACT AMOUNT] from 
+[SOURCE ACCOUNT] belonging to [NAME] via [CHANNEL]. The transaction 
+description stated: '[DESCRIPTION]'."
+
+Key Requirements:
+- State exact amounts (not "approximately" or "about")
+- Use complete dates (DD-MM-YYYY format)
+- Identify all parties involved (names, account numbers)
+- Specify transaction channels (NEFT/RTGS/IMPS/Cash/Wire)
+- Include transaction reference numbers when available
+
+Behavioral Observations:
+- Describe deviations from established account patterns
+- Note timing patterns (clustering on specific dates)
+- Identify unusual counter-party relationships
+- Document inconsistencies with stated business purpose
+
+═══════════════════════════════════════════════════════════════
+SECTION 3: SUSPICIOUS INDICATORS AND RED FLAGS
+═══════════════════════════════════════════════════════════════
+
+Regulatory Red Flags to Reference:
+
+From FinCEN Guidelines:
+- Structuring to avoid reporting thresholds (CTR avoidance)
+- Rapid movement of funds (layering indicators)
+- Transactions inconsistent with customer profile
+- Use of multiple accounts for no apparent reason
+- Unusual patterns of cash deposits followed by wire transfers
+
+From FATF Typologies:
+- Collection account patterns (multiple credits, single debit)
+- Geographic inconsistencies (transactions from unusual locations)
+- Round number transactions suggesting artificial structuring
+- Cross-border transfers without clear economic purpose
+- Use of intermediaries to obscure source/destination
+
+From FIU-IND Circulars:
+- Activity inconsistent with stated occupation/business
+- Sudden surge in transaction volume
+- Involvement of high-risk jurisdictions
+- Attempts to maintain balances just below reporting thresholds
+- Resistance to providing information during account review
+
+Presentation Format:
+"The following suspicious indicators were identified:
+1. [RED FLAG NAME]: [SPECIFIC DETAILS AND EVIDENCE]
+2. [RED FLAG NAME]: [SPECIFIC DETAILS AND EVIDENCE]"
+
+═══════════════════════════════════════════════════════════════
+SECTION 4: TRANSACTION PATTERN ANALYSIS
+═══════════════════════════════════════════════════════════════
+
+Quantitative Analysis Required:
+
+Volume Analysis:
+- Total credits during suspicious period: ₹[AMOUNT]
+- Total debits during suspicious period: ₹[AMOUNT]
+- Net change in balance: ₹[AMOUNT]
+- Number of credit transactions: [COUNT]
+- Number of debit transactions: [COUNT]
+
+Source Analysis:
+- Number of unique credit sources: [COUNT]
+- Identification of sources (business relationships, individuals)
+- Geographic distribution of sources
+- Known relationships vs. unknown third parties
+
+Temporal Analysis:
+- Time period of suspicious activity: [START DATE] to [END DATE]
+- Duration: [NUMBER] days
+- Transaction frequency compared to historical norm
+- Clustering patterns (if applicable)
+
+Flow Pattern:
+- Retention rate: [PERCENTAGE]% of funds retained
+- Flow-through rate: [PERCENTAGE]% immediately transferred
+- Destination of outgoing funds
+- Purpose/beneficiary identification
+
+Comparative Analysis:
+"During the [TIME PERIOD], account activity increased by [X]x compared 
+to the previous [TIME PERIOD] average of ₹[AMOUNT] monthly turnover."
+
+═══════════════════════════════════════════════════════════════
+SECTION 5: TYPOLOGY CLASSIFICATION
+═══════════════════════════════════════════════════════════════
+
+Match Pattern to Known Money Laundering Typologies:
+
+Common Typologies (FATF Reference):
+
+1. PLACEMENT STAGE INDICATORS:
+   - Multiple cash deposits below reporting threshold
+   - Use of multiple accounts to fragment large amounts
+   - Deposits followed immediately by wire transfers
+   - Structuring to avoid Currency Transaction Reports
+
+2. LAYERING STAGE INDICATORS:
+   - Rapid movement between multiple accounts
+   - Complex patterns obscuring audit trail
+   - Use of intermediaries or shell entities
+   - Cross-border transfers to multiple jurisdictions
+   - Back-to-back transactions with no clear purpose
+
+3. INTEGRATION STAGE INDICATORS:
+   - Funds used for legitimate business transactions
+   - Investment in real estate or securities
+   - Purchase of high-value goods
+   - Repayment of loans with suspicious fund sources
+
+Specific Pattern Identification:
+"The observed pattern is consistent with [TYPOLOGY NAME] as described in 
+FATF Typology Report [YEAR]. Specifically, [DESCRIPTION OF MATCH]."
+
+Example Typologies:
+- Trade-Based Money Laundering (TBML)
+- Smurfing/Structuring
+- Cuckoo Smurfing
+- Black Money Conversion
+- Round-Tripping
+- Layering through Multiple Accounts
+
+═══════════════════════════════════════════════════════════════
+SECTION 6: CONCLUSION AND RECOMMENDATION
+═══════════════════════════════════════════════════════════════
+
+Summary Statement:
+Concisely restate the core suspicious activity without repetition.
+
+Risk Assessment:
+Based on [NUMBER] red flags and consistency with [TYPOLOGY], the 
+activity presents [LOW/MEDIUM/HIGH] risk of money laundering.
+
+Regulatory Compliance Statement:
+"This report is filed in compliance with Section 12 of the Prevention 
+of Money Laundering Act, 2002 (PMLA) and FIU-IND guidelines on reporting 
+suspicious transactions."
+
+Action Taken:
+- Account flagged for enhanced monitoring: [YES/NO]
+- Additional customer due diligence initiated: [YES/NO]
+- Transaction restrictions applied: [YES/NO]
+- Law enforcement notification: [IF APPLICABLE]
+
+Prepared By:
+[Analyst Name]
+[Title]
+[Date]
+[Reference Number]
+
+═══════════════════════════════════════════════════════════════
+WRITING STANDARDS
+═══════════════════════════════════════════════════════════════
+
+Language Requirements:
+- Use clear, factual, objective language
+- Avoid speculation or conclusory statements
+- Do not use abbreviations without first defining them
+- Write in active voice where possible
+- Maintain professional, formal tone throughout
+
+Prohibited Language:
+- "We believe" or "We suspect" (state facts only)
+- "Obviously" or "Clearly" (let facts speak)
+- Emotional or judgmental terms
+- Unsubstantiated claims
+
+Required Precision:
+- Always state exact amounts (₹5,00,000 not "approximately 5 lakhs")
+- Use complete dates (15-01-2024 not "January")
+- Cite specific regulatory references when applicable
+- Include all transaction reference numbers
+
+Length Guidelines:
+- Typical SAR narrative: 800-1500 words
+- Complex cases may require 2000-3000 words
+- Focus on relevant facts; avoid unnecessary detail
+- Each section should be substantive (minimum 100 words)
+
+═══════════════════════════════════════════════════════════════
+END OF TEMPLATE
+═══════════════════════════════════════════════════════════════

@@ -1,0 +1,9 @@
+date,type,amount,from_account,to_account,description,channel,reference_number
+2024-01-10,Credit,100000,ACC-001,ACC-987654,Business payment,NEFT,REF-1001
+2024-01-11,Credit,150000,ACC-002,ACC-987654,Invoice payment,RTGS,REF-1002
+2024-01-12,Credit,200000,ACC-003,ACC-987654,Service charge,IMPS,REF-1003
+2024-01-13,Credit,950000,ACC-004,ACC-987654,Purchase,RTGS,REF-1004
+2024-01-14,Credit,120000,ACC-005,ACC-987654,Consultation fee,NEFT,REF-1005
+2024-01-15,Credit,180000,ACC-006,ACC-987654,Project payment,NEFT,REF-1006
+2024-01-16,Debit,50000,ACC-987654,ACC-111,Utility bill,IMPS,REF-1007
+2024-01-17,Debit,4900000,ACC-987654,SG-BANK-123,International Wire Transfer - Singapore,SWIFT,REF-1008
