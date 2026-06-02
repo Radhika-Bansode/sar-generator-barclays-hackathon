@@ -1,0 +1,9 @@
+If a transaction involves a high-risk wallet, it is considered suspicious.
+If funds are transferred very quickly between wallets, it is considered suspicious.
+If a crypto mixer is used, the transaction is highly suspicious.
+If the crypto transaction amount is unusually large, it is considered suspicious.
+If the same sender and receiver interact repeatedly, it is considered suspicious.
+If one wallet is connected to many different wallets, it is considered suspicious.
+If there are too many transactions in a short time, it is considered suspicious.
+If transaction amounts are exact round numbers, it is considered suspicious.
+If multiple suspicious conditions are present together, the risk is classified as high.

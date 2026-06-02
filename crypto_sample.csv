@@ -1,0 +1,4 @@
+hash,sender_wallet,receiver_wallet,crypto_amount,token,network
+0xabc123456789,0x111122223333,0x444455556666,2.5,ETH,Ethereum
+0xdef456789012,0x777788889999,0xaaaabbbbcccc,50.0,USDT,Ethereum
+0xghi789012345,0xddddeeeeffff,0x1234567890ab,0.1,BTC,Bitcoin
