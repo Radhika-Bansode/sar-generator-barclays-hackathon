@@ -1,3 +1,4 @@
+
 """
 Template-based SAR Narrative Generator (fallback when LLaMA is unavailable)
 """
